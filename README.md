@@ -1,4 +1,6 @@
-# Karting
+## Karting
 A karting race Game, Beat your best time. Now, Lets play ;) 
 
-![Test Image 1](https://connect.unity.com/p/new-unity-project-168)
+[click the link to play](https://connect.unity.com/p/new-unity-project-168)
+
+![](https://github.com/Fato07/Karting/blob/master/Screenshot%202019-08-27%20at%2019.57.19.png)
